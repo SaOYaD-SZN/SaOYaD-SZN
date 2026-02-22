@@ -159,7 +159,7 @@ status: "Coding in the shadows ✨"
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2aRd2B52qZ)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Silver_Lining_Skies)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaOYaD123)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaOYaD-SZN)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SaOYaD/)
 
 <br>
@@ -170,7 +170,7 @@ status: "Coding in the shadows ✨"
 <a href="https://www.youtube.com/@Silver_Lining_Skies">
   <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="64" />
 </a>
-<a href="https://x.com/SaOYaD123">
+<a href="https://x.com/SaOYaD-SZN">
   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="64" />
 </a>
 <a href="https://www.reddit.com/user/SaOYaD/">
