@@ -1,0 +1,19 @@
+name: Daily Commit
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create/Update daily.txt
+        run: |
+          echo "Daily commit: $(date)" >> daily.txt
+      - name: Commit changes
+        run: |
+          git config --local user.email saoyad123@outlook.com
+          git config --local user.name SaOYaD-SZN
+          git add daily.txt
+          git commit -m "Daily commit $(date)" || echo "No changes"
+          git push
