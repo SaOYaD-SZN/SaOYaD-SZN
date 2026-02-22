@@ -132,6 +132,9 @@ status: "Coding in the shadows ✨"
 
 <div align="center">
 
+<!-- GitHub Stats -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaOYaD-SZN&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_color=8B5CF6" alt="GitHub Stats" />
+
 <!-- Streak Stats -->
 <img width="48%" src="https://streak-stats.demolab.com?user=SaOYaD-SZN&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6" alt="GitHub Streak" />
 
@@ -143,6 +146,32 @@ status: "Coding in the shadows ✨"
 
 <!-- Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=SaOYaD-SZN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+
+</div>
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>🏆 GitHub Achievements</h2></summary>
+
+<br>
+
+<div align="center">
+
+| Badge | Achievement | Description |
+|:-----:|:-----------:|:------------|
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" /> | **Pull Shark** | Get 2+ pull requests merged |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" /> | **YOLO** | Merge a pull request without a code review |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" /> | **Quickdraw** | Close an issue or PR within 5 minutes of opening |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" /> | **Galaxy Brain** | Have a discussion answer marked as helpful |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" /> | **Starstruck** | Have a repository that has received 16+ stars |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" /> | **Pair Extraordinaire** | Co-author commits in a merged pull request |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60" /> | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60" /> | **Open Sourcerer** | Have pull requests merged in multiple public repositories |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" /> | **Sponsor** | Sponsor an open source contributor through GitHub Sponsors |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" /> | **Arctic Code Vault Contributor** | Contributed code to the 2020 GitHub Archive Program |
 
 </div>
 
