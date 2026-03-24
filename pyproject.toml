@@ -44,6 +44,7 @@ pretty = true
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
+pythonpath = ["."]
 addopts = "--cov=star_repos --cov-report=term-missing"
 
 [tool.coverage.run]
