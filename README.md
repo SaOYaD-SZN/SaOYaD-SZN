@@ -4,185 +4,80 @@
 <img src="https://komarev.com/ghpvc/?username=SaOYaD-SZN&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Hey+I'm+SaOYaD+%E3%83%84;%E3%80%8C+Linux+Enthusiast+%F0%9F%90%A7+%E3%80%8D;%E3%80%8C+Anime+%26+Night+Vibes+%F0%9F%8C%99+%E3%80%8D;%E3%80%8C+Future+Full-Stack+Dev+%F0%9F%92%BB+%E3%80%8D;%E3%80%8C+Code+in+Silence+%E2%9A%A1+%E3%80%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Hey+I'm+SaOYaD+%E3%83%84;Building+clean+ideas+into+code;Always+learning%2C+always+evolving" alt="Typing SVG" />
 
 <!-- Aesthetic Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-<!-- Philosophy Quotes -->
 ### 「 *Code in silence. Let your work make the noise.* 」
-
-### 「 *In the darkness of night, even silent code shines the brightest.* 」
-
-### 「 *I don't chase perfection — I refine it line by line.* 」
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 <br>
 
-## 🖤 **About Me**
+## 🖤 About Me
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="anime coding gif" />
 
 ```yaml
 name: "SaOYaD"
+focus: "Clean, beautiful, useful code"
 location: "Terminal @ Midnight 🌃"
-os: "Arch Linux (btw)"
-aesthetic: "Dark • Violet • Anime"
-current_quest: "JavaScript → Full-Stack Mastery"
-philosophy: "Calm mind, loud code"
-status: "Coding in the shadows ✨"
+learning: "JavaScript • Full-Stack Development"
+style: "Dark • Violet • Minimal"
+mindset: "Calm mind, sharp execution"
+status: "Building and improving"
 ```
 
-- 🌌 **Night Owl Coder** — The terminal comes alive after midnight  
-- 🐧 **Arch Linux Enthusiast** — Where customization meets control  
-- 💜 **Aesthetic Devotee** — Dark themes, violet accents, anime vibes  
-- ⚙️ **On The Path** — Currently mastering **JavaScript & Full-Stack Development**  
-- 🌙 **Philosophy** — Silence in thought, power in execution  
+- 🌌 Night-owl developer who enjoys late-night focus sessions
+- 💜 I like dark themes, violet accents, and minimal layouts
+- ⚙️ Currently learning and building toward full-stack development
+- 🐧 Comfortable in Linux, terminal workflows, and custom setups
+- ✨ I value simple, elegant, and maintainable code
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## ⚡ **System Snapshot**
-
-```bash
-╭─ saoyad@archbtw ~ 
-╰─❯ neofetch
-
-     ██████╗  ███████╗ ██╗   ██╗
-    ██╔═══██╗ ██╔════╝ ██║   ██║
-    ██║   ██║ ███████╗ ██║   ██║
-    ██║   ██║ ╚════██║ ╚██╗ ██╔╝
-    ╚██████╔╝ ███████║  ╚████╔╝ 
-     ╚═════╝  ╚══════╝   ╚═══╝  
-
-    OS        → Arch Linux x86_64
-    Shell     → zsh + oh-my-zsh
-    Editor    → Neovim • VS Code
-    Theme     → Dark • Violet • Anime
-    Mindset   → Calm • Focused • Dangerous
-    Status    → Always Evolving 🔮
-```
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<details>
-<summary><h2>💻 Tech Arsenal</h2></summary>
-
-<br>
+## ⚡ Tech Stack
 
 <div align="center">
 
-### **Languages**
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Frameworks & Libraries**
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Operating Systems**
+### Environment
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-### **Editors**
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,npm,docker,git,github,gitlab,mongodb,mysql,postgresql,graphql,linux,arch,debian,redhat,kubernetes,nginx,neovim,vscode&theme=dark&perline=8" />
-
 </div>
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>📊 GitHub Power Level</h2></summary>
-
-<br>
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaOYaD-SZN&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_color=8B5CF6" alt="GitHub Stats" />
-
-<!-- Streak Stats -->
 <img width="48%" src="https://streak-stats.demolab.com?user=SaOYaD-SZN&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6" alt="GitHub Streak" />
 
-<!-- Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD-SZN&theme=tokyonight" alt="Profile Summary" />
-
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD-SZN&theme=tokyo-night&bg_color=1a1b27&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&hide_border=false&border=8B5CF6" alt="Contribution Graph" />
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=SaOYaD-SZN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
-
 </div>
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>🏆 GitHub Achievements</h2></summary>
-
-<br>
-
-<div align="center">
-
-| Badge | Achievement | Description |
-|:-----:|:-----------:|:------------|
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" /> | **Pull Shark** | Get 2+ pull requests merged |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" /> | **YOLO** | Merge a pull request without a code review |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" /> | **Quickdraw** | Close an issue or PR within 5 minutes of opening |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" /> | **Galaxy Brain** | Have a discussion answer marked as helpful |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" /> | **Starstruck** | Have a repository that has received 16+ stars |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" /> | **Pair Extraordinaire** | Co-author commits in a merged pull request |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60" /> | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60" /> | **Open Sourcerer** | Have pull requests merged in multiple public repositories |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" /> | **Sponsor** | Sponsor an open source contributor through GitHub Sponsors |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" /> | **Arctic Code Vault Contributor** | Contributed code to the 2020 GitHub Archive Program |
-
-</div>
-
-</details>
-
-<br>
-
-<details>
-<summary><h2>🌐 Social Realm</h2></summary>
-
-<br>
+## 🌐 Connect
 
 <div align="center">
 
@@ -191,32 +86,13 @@ status: "Coding in the shadows ✨"
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaOYaD123)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SaOYaD/)
 
-<br>
-
-<a href="https://discord.gg/2aRd2B52qZ">
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="64" />
-</a>
-<a href="https://www.youtube.com/@Silver_Lining_Skies">
-  <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="64" />
-</a>
-<a href="https://x.com/SaOYaD123">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="64" />
-</a>
-<a href="https://www.reddit.com/user/SaOYaD/">
-  <img src="https://skillicons.dev/icons?i=reddit&theme=dark" width="64" />
-</a>
-
 </div>
 
-</details>
-
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 「 **The code never sleeps, and neither do I.** 」
+### 「 *Simple. Elegant. Alive.* 」
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=SaOYaD&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
